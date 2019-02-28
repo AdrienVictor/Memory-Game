@@ -1,16 +1,16 @@
 # Memory-Game
 A small memory game to keep up with your Alzheimer :)
 
-#Demo
+# Demo
 
-#Technologies
+# Technologies
 -Html5
 -Css3
 -JavaScript
 
-#Licence
-####MIT
+# Licence
+#### MIT
 
-#Author
+# Author
 Adrien Fernandez
 
