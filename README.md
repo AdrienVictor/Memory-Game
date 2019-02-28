@@ -4,9 +4,9 @@ A small memory game to keep up with your Alzheimer :)
 # Demo
 
 # Technologies
--Html5
--Css3
--JavaScript
+- Html5
+- Css3
+- JavaScript
 
 # Licence
 #### MIT
